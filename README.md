@@ -1,4 +1,5 @@
-# gigers_lstm
+# text_classifier_autoencoder
+
 This project aims to apply unsupervised and supervised learning methods on text data and utilise the resulting model for some useful applications:
 
 * classification after an additional supervised training
